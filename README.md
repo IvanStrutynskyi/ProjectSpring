@@ -309,3 +309,6 @@
 **Вихідні дані:**
 - `message` (string): Повідомлення про успішне видалення аудиторії
 
+## ER DIAGRAM
+
+![ER Diagram](./diagram.png)
